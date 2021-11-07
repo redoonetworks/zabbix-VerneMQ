@@ -9,7 +9,7 @@ It use the IP from Zabbix Host to read Metrix. So you need to make add a secure 
 ## Compatibility
 
 Tested with following zabbix versions: 
-  - 5.4.3
+  - 5.4
   
 ## Installation
    - Download template XML
