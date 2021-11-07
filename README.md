@@ -1,4 +1,4 @@
-# zabbix-verneMQ
+# Zabbix VerneMQ Template
 Template to monitor VerneMQ from Zabbix  
 
 Currently in development and will be extended, after proof of concept was sucessfully and script is convert all metrix to xml.
